@@ -13,7 +13,7 @@ Get the newest build from **[Releases > Latest](../../releases/latest)**. Downlo
 **Both players need the same zip.**
 
 ## Requirements
-- Crimson Desert on Steam, game version **1.0.0.3479** (2.04.05). On another version the mod switches itself off.
+- Crimson Desert on Steam, game version **1.0.0.3527**. On another version the mod switches itself off.
 - You and your friend are Steam friends, with the Steam overlay on.
 
 ## Install
@@ -32,6 +32,9 @@ Get the newest build from **[Releases > Latest](../../releases/latest)**. Downlo
 - **Host:** press **Ctrl+F1** (pad: hold View + Y) and invite your friend in the Steam overlay.
 - **Friend:** accept the invite, or right-click the host in your Steam friends list > **Join Game**.
 - **F8** (pad: View + X) opens the co-op panel: connection, settings, your record.
+- **Story sync (new):** the guest can take the host's story (quests, main story) into their own save: F8, "Copy my
+  friend's story into my save (guest)": yes, then restart the game and press Continue. The save is backed up first;
+  your character, items and map stay yours. Details in the zip's README (STORY SYNC).
 
 ## Uninstall / turn off
 - `Uninstall Co-op+.cmd` removes exactly what was installed.
